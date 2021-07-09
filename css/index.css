@@ -16,6 +16,8 @@
 .card {
     background: white;
     background-image: url('../images/cover.png');
+    background-repeat: no-repeat;
+    background-size: cover;
     width: 90vw;
     height: 90vh;
     box-shadow: 0.01rem 0.015rem 0.5rem #222222;
