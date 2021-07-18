@@ -13,6 +13,8 @@ let isUseEqual = false;
 // Calculator is reset or not
 let isReset = true;
 
+btns = [...btns];
+
 // Add click event with button
 btns.forEach(btn => {
     btn.addEventListener('click', () => {
