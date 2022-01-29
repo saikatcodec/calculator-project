@@ -1,2 +1,3 @@
-# calculator-project
+# Calculator
+
 Design a calculator by html and css
